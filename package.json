@@ -1,0 +1,30 @@
+{
+  "name": "creative-website",
+  "version": "1.0.0",
+  "description": "A colorful and creative website showcasing professional design and interactivity.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "website",
+    "creative",
+    "colorful",
+    "professional"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://yourwebsite.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/creative-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/creative-website/issues"
+  }
+}
